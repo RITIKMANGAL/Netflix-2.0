@@ -66,10 +66,3 @@ To get a local copy up and running, follow these steps:
     ```bash
     npm run dev
     ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
----
-
-Feel free to personalize this template further and replace placeholders such as "your-deployment-link" and "yourusername" with actual links and usernames.
